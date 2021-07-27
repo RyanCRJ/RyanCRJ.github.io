@@ -2,6 +2,8 @@
 layout: post
 title: Tensorflow Installation on Apple M1 Macs
 subtitle: power your M1 chip for deep learning
+excerpt:
+  The M1 chip in Apple's latest Mac contains a powerful new 8-Core CPU and up to 8-core GPU that are optimized for ML training tasks right on the Mac.
 thumbnail-img: /assets/img/apple_m1.jpg
 share-img: /assets/img/apple_m1.jpg
 tags: [platform]
@@ -33,9 +35,9 @@ which python
 
 If we want to run a python script from text editor, such as [Atom](https://atom.io), we can specify the python version or environment to use.  
 
-Firstly, we need to install a Atom package, ["script"](https://atom.io/packages/script), that allows running code in Atom.
+Firstly, we need to install a Atom package, [script](https://atom.io/packages/script), that allows running code in Atom.
 
-The next step is to set the "command" in configuration to a specific python path and then "save as profile".
+The next step is to set the _**command**_ in configuration to a specific python path and then _**save as profile**_.
 
 ![Atom](/assets/img/atom_scripts.png)
 
