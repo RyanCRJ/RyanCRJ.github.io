@@ -1,19 +1,19 @@
 ---
 layout: post
-title: Tensorflow Installation on Apple M1 Macs
+title: TensorFlow Installation on Apple M1 Macs
 subtitle: power your M1 chip for deep learning
 excerpt:
   The M1 chip in Apple's latest Mac contains a powerful new 8-Core CPU and up to 8-core GPU that are optimized for ML training tasks right on the Mac.
 thumbnail-img: /assets/img/apple_m1.jpg
 share-img: /assets/img/apple_m1.jpg
-tags: [platform]
+tags: [platform, Apple M1]
 comments: true
 ---
 ![TensorFlow](/assets/img/tensorflow.png){: .mx-auto.d-block :}
 
 The M1 chip in Apple's latest Mac contains a powerful new 8-Core CPU and up to 8-core GPU that are optimized for ML training tasks right on the Mac. You can check out this blog for the [comparison of ML training performance between M1 Mac and prior models](https://blog.tensorflow.org/2020/11/accelerating-tensorflow-performance-on-mac.html).
 
-## Install TensorFlow Miniforge
+## Install TensorFlow through Miniforge
 
 The [installation steps](https://github.com/jeffheaton/t81_558_deep_learning/blob/master/install/tensorflow-install-mac-metal-jul-2021.ipynb) of TensorFlow2.5 on M1 Mac is fairly simple. You can check out this [YouTube video](https://www.youtube.com/watch?v=_CO-ND1FTOU) for step-by-step guidance created by Prof. Jeff Heaton from Washington University in St. Louis.
 
