@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About me
+title: about me
 subtitle: an Engineer in the Bay Area
 ---
 
@@ -9,7 +9,6 @@ I got my PhD degree in 2018 from University of California San Diego in United St
 Strong passion in the fields of:
 - AI, machine learning, and deep learning
 - Programming languages
-
 
 
 **check out my _LinkedIn_ to learn more**
